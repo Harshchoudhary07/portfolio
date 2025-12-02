@@ -1,0 +1,84 @@
+{
+  "projects": [
+    {
+      "id": "proj-1",
+      "name": "XPRESSOO",
+      "summary": "A vehicle rental platform designed for college students.",
+      "year": 2024,
+      "likes": 0,
+      "thumbnail": "expresso.png",
+      "images": ["expresso.png"],
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "description": "A vehicle rental platform for college students who do not own private vehicles. Enables easy vehicle rentals, reducing reliance on overcrowded public transport. Designed an intuitive UI using HTML & CSS with plans for further enhancements post-hackathon.",
+      "features": [
+        "Easy vehicle browsing and rental",
+        "Student-focused pricing",
+        "Intuitive user interface",
+        "Responsive design"
+      ],
+      "problem": "College students often struggle with transportation, relying on overcrowded public transport or expensive ride-sharing services.",
+      "live_url": "https://xpressoo.netlify.app/",
+      "github_url": ""
+    },
+    {
+      "id": "proj-2",
+      "name": "NUTRILYF",
+      "summary": "Customized diet recommendation app with intelligent meal plans.",
+      "year": 2024,
+      "likes": 0,
+      "thumbnail": "nutrilyf.png",
+      "images": ["nutrilyf.png"],
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "description": "A platform to promote healthy living through personalized meal plans and food recommendations. Integrated user input-based suggestions tailored to health conditions and fitness goals. Developed using HTML, CSS, and JavaScript.",
+      "features": [
+        "Personalized meal planning",
+        "Health condition-based recommendations",
+        "Fitness goal tracking",
+        "Nutritional information database"
+      ],
+      "problem": "People struggle to maintain healthy eating habits due to lack of personalized guidance and meal planning tools.",
+      "live_url": "https://nutrilyf.netlify.app/#",
+      "github_url": ""
+    },
+    {
+      "id": "proj-3",
+      "name": "GLOBEWAYY",
+      "summary": "Interactive tourism map of India with AI-driven itinerary generation.",
+      "year": 2024,
+      "likes": 0,
+      "thumbnail": "globeway.png",
+      "images": ["globeway.png"],
+      "tech": ["HTML", "CSS", "JavaScript", "API Integration"],
+      "description": "A clickable map of India designed to enhance tourism engagement. Provides state-wise tourism details, including categorized attractions. Planned AI-based itinerary generation for a personalized travel experience.",
+      "features": [
+        "Interactive state-wise map",
+        "Categorized tourist attractions",
+        "Detailed location information",
+        "AI itinerary planning (planned)"
+      ],
+      "problem": "Tourists struggle to plan comprehensive trips across India due to scattered information and lack of personalized recommendations.",
+      "live_url": "http://Globewayy.vercel.app",
+      "github_url": ""
+    },
+    {
+      "id": "proj-4",
+      "name": "GREEN CART",
+      "summary": "Platform connecting local vendors with customers.",
+      "year": 2023,
+      "likes": 0,
+      "thumbnail": "Greencart.png",
+      "images": ["Greencart.png"],
+      "tech": ["HTML", "CSS", "JavaScript"],
+      "description": "A platform to connect local vendors with customers, promoting local businesses. Aims to bridge the gap between vendors and buyers for seamless access to goods/services. Developed using HTML, CSS, and JavaScript.",
+      "features": [
+        "Vendor registration and profiles",
+        "Product catalog management",
+        "Customer browsing interface",
+        "Local business promotion"
+      ],
+      "problem": "Local vendors struggle to reach customers online, while buyers find it difficult to discover and support local businesses.",
+      "live_url": "https://green-cart.vercel.app/",
+      "github_url": ""
+    }
+  ]
+}
